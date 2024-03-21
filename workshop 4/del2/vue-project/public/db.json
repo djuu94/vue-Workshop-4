@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "name": "Apple",
+      "price": 100
+    },
+    {
+      "id": "2",
+      "name": "Banana",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "name": "Carrot",
+      "price": 300
+    },
+    {
+      "id": "4",
+      "name": "Doughnut",
+      "price": 400
+    },
+    {
+      "id": "5",
+      "name": "Eggplant",
+      "price": 500
+    },
+    {
+      "id": "6",
+      "name": "Fries",
+      "price": 600
+    },
+    {
+      "id": "7",
+      "name": "Grapes",
+      "price": 700
+    },
+    {
+      "id": "8",
+      "name": "Hamburger",
+      "price": 800
+    },
+    {
+      "id": "9",
+      "name": "Ice Cream",
+      "price": 900
+    },
+    {
+      "id": "10",
+      "name": "Juice",
+      "price": 1000
+    }
+  ]
